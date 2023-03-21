@@ -1,26 +1,7 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+# Estudiante: Valentino Bortolussi
 
-Ya saben usar git!
+Hola, mi nombre es Valentino, soy estudiante de la tecnicatura universitaria de programación informática. Estoy muy interesado en la programación con orientación al desarrollo de videojuegos y del pixel art. Tengo muchas ganas de aprender programación orientada a objetos y realizar el trabajo final creando por fin un videojuego.
 
-
-## Estudiante: Nombre estudiante
-
-Descripción
-
-Foto de mi persona:
-
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
+![73b](https://user-images.githubusercontent.com/94335853/226686090-d662f56d-7aae-4d18-8208-9d58dbc616e2.jpg)
